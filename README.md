@@ -1,1 +1,1 @@
-# getting-started-with-numpy
+# Getting Started With NumPy
